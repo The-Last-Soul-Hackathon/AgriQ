@@ -202,4 +202,4 @@ TRUST SCORE + TRANSACTION HISTORY UPDATED
 - Farmer acquisition at door-to-door scale (FPOs/CSCs/KVKs/PACS already have this reach)
 - Formal commodity quality certification (e-NAM's existing assaying system remains authoritative; our CV grading is assistive only)
 
-This split is your strongest answer to the "is this feasible" question — a lean software team building a coordination layer, not a logistics company trying to become an infrastructure company overnight.
+
