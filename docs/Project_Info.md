@@ -1,6 +1,4 @@
-Sure. Here is a **clear and simple explanation of the problem statement (PS) and the expected solution**, suitable for a presentation, viva, or project proposal.
-
- ## Problem Statement
+## Problem Statement
 
  Farmers often **do not get a fair price for their produce** because there are many intermediaries between the farmer and the final customer. For example:
 
@@ -100,35 +98,6 @@ Sure. Here is a **clear and simple explanation of the problem statement (PS) and
 - Delivery time
 - Transportation expenses
 - Unnecessary travel
-
----
-
- # How the Complete System Works
-
-```
-        FARMERS / FPOs
-              ↓
-      Upload Produce
-              ↓
-     DIGITAL MARKETPLACE
-              ↓
-    ┌─────────┴─────────┐
-    ↓                   ↓
-Consumers          Bulk Buyers
-    │                   │
-    └─────────┬─────────┘
-              ↓
-       Order Processing
-              ↓
-        AI Demand
-        Forecasting
-              ↓
-       Logistics System
-              ↓
-      AI Route Optimization
-              ↓
-          Delivery
-```
 
  ## Main Benefits
 
