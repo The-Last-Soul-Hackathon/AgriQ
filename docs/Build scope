@@ -1,0 +1,36 @@
+# AgriQ — Build Scope
+
+## P0 — Must Build
+
+* **FPO / Collection Point:** collect and aggregate produce from small farmers.
+* **Buyer Matching:** match aggregated supply with verified buyer requirements.
+* **Buyer Comparison:** compare price, quantity, location, and delivery requirements.
+* **Real Net Profit:** calculate selling price **after logistics/transaction costs**.
+* **Logistics Optimization:** calculate route, transport cost, and best delivery option.
+* **Best Buyer:** recommend the buyer/strategy with the highest practical net profit.
+* **Delivery & Settlement:** basic shipment tracking and payment/settlement status.
+
+## P1 — Build After P0
+
+* Basic dashboards and notifications.
+* Market-price data and simple insights.
+* Basic AI assistance for recommendations/explanations.
+
+## Out of Scope
+
+Do **not** build unless the PS or judges specifically require it:
+
+* Negotiation / bidding / auctions
+* Blockchain traceability
+* Multi-language voice UI
+* IoT / drones / hardware
+* Full ERP or warehouse management
+* Custom payment gateway / banking
+* Unnecessary ecommerce or social features
+* Complex AI features unrelated to the core flow
+
+## YAGNI Rule
+
+> **Build only what directly helps Aggregation → Buyer Matching → Net Profit → Logistics → Delivery → Settlement.**
+
+**Priority:** Make the core flow work completely before adding anything else.
