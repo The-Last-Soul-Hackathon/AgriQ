@@ -15,7 +15,7 @@
 |---|---|
 | **Ministry** | Consumer Affairs, Food & Public Distribution |
 | **Category** | Software |
-| **Portal theme** | MedTech / BioTech / HealthTech (looks like a labelling quirk; confirm on the portal) |
+
 | **Reviewed** | 20 September 2026 |
 
 > [!WARNING]
@@ -354,7 +354,3 @@ Scores are judgment calls and the crowd figures are a projection, not a fact. Th
 - Agmarknet: [overview](https://ies.gov.in/arthapedia/concept/agricultural-marketing-information-network-agmarknet), [data.gov.in listing](https://data.gov.in/resource/current-daily-price-various-commodities-various-markets-mandi), [CEDA](https://agmarknet.ceda.ashoka.edu.in)
 - [Intermediaries and producer share (older parliamentary reply)](https://eparlib.nic.in/bitstream/123456789/611033/1/113092.pdf)
 - [Farm-to-consumer model statement, January 2025](https://www.newsonair.gov.in/union-minister-shivraj-singh-chouhan-urges-implementation-of-farm-to-consumer-model)
-
-> [!CAUTION]
-> **Not verified:** the official SIH26033 statement text (I could not find it online, so check the portal); the four state-market names; APMC, food-business registration and weights-and-measures rules for your pilot state; and the SIH 2026 finals duration.
-Displaying README.md.
