@@ -23,7 +23,7 @@
 
 **Jump to:** [The scores](#the-scores) | [In its favour](#in-its-favour) | [Against it](#against-it-in-detail) | [Data](#data-you-can-actually-get) | [Plan](#the-version-with-a-chance) | [Sources](#sources-and-caveats)
 
-Base analysis by SIH Buddy (Ganeev Singh, AI first opinion by Claude Opus), lightly condensed. The "against" section, data section, positioning and checklist are added.
+
 
 ---
 
