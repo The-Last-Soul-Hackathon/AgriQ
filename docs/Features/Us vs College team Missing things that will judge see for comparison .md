@@ -11,11 +11,6 @@
 ![Demo](https://img.shields.io/badge/Demo--ability-Medium-yellow)
 ![Crowd](https://img.shields.io/badge/Crowd-220--500%20teams-yellow)
 
-| | |
-|---|---|
-| **Ministry** | Consumer Affairs, Food & Public Distribution |
-| **Category** | Software |
-
 | **Reviewed** | 20 September 2026 |
 
 > [!WARNING]
